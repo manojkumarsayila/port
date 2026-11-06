@@ -21,7 +21,7 @@
         name: "PULSEFORM",
         description: "A public fitness and wellness guide for discovering workouts, building healthier habits, and planning weekly sessions in your browser.",
         tech: [],
-        image: "",
+        image: "https://image.thum.io/get/width/1200/https://pulseform-2bn4ehop8-manojkumar5.vercel.app/",
         repo: "",
         demo: "https://pulseform-2bn4ehop8-manojkumar5.vercel.app/"
       }
